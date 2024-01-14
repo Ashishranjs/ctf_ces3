@@ -1,5 +1,5 @@
 var slider_img =document.querySelector('.img1');
-var images =['https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf1.jpg?raw=true','https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf2.jpg?raw=true','https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf3.jpg?raw=true','https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf4.jpg?raw=true','https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf5.jpg?raw=true'];
+var images =['https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf1.jpg?raw=true','https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf2.jpg?raw=true','https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf3.jpg?raw=true','https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf4_1.jpg?raw=true','https://github.com/Ashishranjs/ctf_ces3/blob/main/ctf5.jpg?raw=true'];
 var i=0;//current page
 
 function prevImg(){
