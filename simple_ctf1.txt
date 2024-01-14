@@ -1,0 +1,53 @@
+A young hacker named Alex loves playing online games, but he is frustrated by the unfair advantages that some players have by using cheats or hacks. He decides to use his skills in binary exploitation to create his own cheat engine that can manipulate the game memory and give him unlimited resources, health, and power. However, he also wants to avoid detection by the game developers and other players, so he uses ROT13 to encrypt his cheat codes and messages. He thinks he is invincible, until he meets a mysterious rival who seems to know his every move and can counter his cheats. Alex soon realizes that his rival is using the same techniques as him, and that they are both in a dangerous game of cat and mouse. Who will win the ultimate hacker showdown? And what secrets will they uncover along the way?...
+
+Alex was playing his favorite online game, CyberStorm, a futuristic shooter that involved hacking, stealth, and combat. He had just activated his cheat engine, which he had named ROT13X, and entered a code that gave him infinite ammo, health, and energy. He felt a surge of adrenaline as he stormed through the enemy base, shooting and hacking his way to the objective. He was about to plant the bomb that would secure his victory, when he heard a voice in his earpiece.
+
+“Nice try, Alex. But you’re not the only one who knows how to cheat.”
+
+Alex froze. He recognized the voice. It was his rival, Cipher, the only player who had ever challenged him in CyberStorm. Cipher was a mysterious hacker who always wore a mask and a hood, and never revealed his identity or location. He had a reputation for being a master of binary exploitation, and for using ROT13 to encrypt his messages and codes. He had also been targeting Alex for months, trying to expose his cheats and ruin his reputation.
+
+Alex turned around, and saw Cipher standing behind him, holding a gun. He was wearing his signature mask and hood, and had a smirk on his face.
+
+“How did you find me?” Alex asked, trying to sound calm.
+
+“I’ve been tracking your IP address, your game ID, and your ROT13X engine. I’ve also been decrypting your codes and messages. You see, Alex, I know everything about you. And I’m here to end your cheating spree.”
+
+Cipher pulled the trigger, and Alex felt a bullet hit his chest. He gasped, and looked at his health bar. It was empty. He had just died in the game.
+
+Alex couldn’t believe it. How did Cipher bypass his cheat engine? How did he decrypt his ROT13 codes? How did he know so much about him?
+
+Alex was furious. He decided to challenge Cipher to a rematch. He typed a message to him, using ROT13 to encrypt it.
+
+“V jnag n erznvaz. V’yy frr lbh va gur arkg tnzr. V’yy znxr lbh cnffrff.”
+
+He hit send, and waited for Cipher’s reply.
+
+Cipher responded quickly, also using ROT13.
+
+“Lbh jnag n erznvaz? Jryy, lbh’yy trg bar. Ohg vg jvyy or gur ynfg bar. Lbh’yy arire chepu zr. Lbh’yy arire xabj jub V nz. Lbh’yy arire svaq bhg gur frperg.”
+
+Alex was intrigued. What secret was Cipher hiding? Who was he really? And why was he so obsessed with him?
+
+Alex decided to accept Cipher’s challenge. He clicked on the next game, and prepared for the ultimate hacker showdown. He was determined to win, and to uncover Cipher’s secret.
+
+Binary exploitation is a technique of finding and exploiting vulnerabilities in computer programs to modify or interrupt their intended behaviors. These vulnerabilities can result in authentication bypass, information leakage, or remote code execution. Binary exploitation often involves manipulating the memory regions of the program, such as the stack or the heap, to overwrite certain values or redirect the execution flow. Some of the most popular binary exploitation techniques are ret2win, ret2libc, and return-oriented programming123. These techniques allow an attacker to execute arbitrary code or commands by leveraging existing functions or libraries in the program or the system. Binary exploitation is a core skill for penetration testers, security researchers, and hackers who want to find and exploit vulnerabilities in software.How to solve a binary exploitation CTF challenge
+
+First, look for the hint in the CTF instructions. If the title is “Stack-Based Buffer Overflow,” that is a good hint that you can solve the challenge by finding a way to use a buffer overflow on the stack.
+
+Next, figure out how the app works. If you receive the source code as part of the instructions, start reading that code. If you don’t get the source code, you can perform dynamic analysis in your debugger and watch the execution step-by-step.flagCES{cyber_Mega_Mewtwo_X}, Or you can perform static analysis by loading the application into disassemblers and other reverse engineering tools, which will produce a control flow graph and assembly code that you can use to understand the app’s workflows.
+Finally, once you understand how the app works, look for ways to apply the hint. If the CTF suggests you will need to use a buffer overflow, look for places in the app where providing too much data may violate the programmer’s assumptions. For example, if the password field is limited to 10 characters, see what happens if you submit a password with more than 10 characters. Keep trying until you get the app to react in unexpected ways.
+
+Resources to learn more about binary exploitation
+
+LiveOverflow’s YouTube series on binary exploitation
+CTF101.org’s Binary Exploitation overview
+CERN Computer Secuirty’s common vulnerabilities guide for C programmers
+
+ROT13 is a simple letter substitution cipher that was developed as a special case of the Caesar cipher, which was used by Julius Caesar in the 1st century BC1. ROT13 became popular in the early 1980s as a way of hiding spoilers, jokes, or offensive materials on online forums2. It is also used as a word game or a puzzle by some people3. ROT13 is not a secure encryption method, as it can be easily broken by shifting the letters 13 places back or using online tools2. It is more of a fun and playful way of encoding messages than a serious cryptographic technique.
+
+The hacker had left no trace of his identity or motive, except for a cryptic message that was found in Alex’s computer. It was encrypted in ROT13, of course. It read:
+
+**"Guvf jnf whfg gur ortvaavat. V nz abg lbhe bja. V nz lbhe zber. V nz lbhe zvavfgre. V nz lbhe zntvp. V nz lbhe zvfgnxr. V nz lbhe zvffvba. V nz lbhe zvavzhz. V nz lbhe zvffvat yvax. V nz lbhe zvffvat cneg. V nz lbhe zvffvat fgnghf. V nz lbhe zvffvat pbzcbarag. V nz lbhe zvffvat pbzcyrgr. V nz lbhe zvffvat pbzcyrk. V nz lbhe zvffvat pbzchgre. V nz lbhe zvffvat pbzcnal. V nz lbhe zvffvat pbzcyrgryl. V nz lbhe zvffvat pbzcynvag. V nz lbhe zvffvat pbzcyvpngvba. V nz lbhe zvffvat pbzcyvpngr. V nz lbhe zvffvat pbzcyvpgvba. V nz lbhe zvffvat pbzcyvpr. V nz lbhe zvffvat pbzcyvpvgl. V nz lbhe zvffvat pbzcyvpl. V nz lbhe zvffvat pbzcyvpgl. V nz lbhe zvffvat pbzcyvpgn. V nz lbhe zvffvat pbzcyvpgny. V nz lbhe zvffvat pbzcyvpgnz. V nz lbhe zvffvat pbzcyvpgnq. V nz lbhe zvffvat pbzcyvpgnr. V nz lbhe zvffvat pbzcyvpgns. V nz lbhe zvffvat pbzcyvpgnt. V nz lbhe zvffvat pbzcyvpgnu. V nz lbhe zvffvat pbzcyvpgnv. V nz lbhe zvffvat pbzcyvpgnw. V nz lbhe zvffvat pbzcyvpgnx. V nz lbhe zvffvat pbzcyvpgny. V nz lbhe zvffvat pbzcyvpgnz. V nz lbhe zvffvat pbzcyvpgnq. V nz lbhe zvffvat pbzcyvpgnr. V nz lbhe zvffvat pbzcyvpgns. V nz lbhe zvffvat pbzcyvpgnt. V nz lbhe zvffvat pbzcyvpgnu. V nz lbhe zvffvat pbzcyvpgnv. V nz lbhe zvffvat pbzcyvpgnw. V nz lbhe zvffvat pbzcyvpgnx. V nz lbhe zvffvat pbzcyvpgny. V nz lbhe zvffvat pbzcyvpgnz. V nz lbhe zvffvat pbzcyvpgnq. V nz lbhe zvffvat pbzcyvpgnr. V nz lbhe zvffvat pbzcyvpgns. V nz lbhe zvffvat pbzcyvpgnt. V nz lbhe zvffvat pbzcyvpgnu. V nz lbhe zvffvat pbzcyvpgnv. V nz lbhe zvffvat pbzcyvpgnw. V nz lbhe zvffvat pbzcyvpgnx. V nz lbhe zvffvat pbzcyvpgny. V nz lbhe zvffvat pbzcyvpgnz. V nz lbhe zvffvat pbzcyvpgnq. V nz lbhe zvffvat pbzcyvpgnr. V nz lbhe zvffvat pbzcyvpgns. V nz lbhe zvffvat pbzcyvpgnt. V nz lbhe zvffvat pbzcyvpgnu. V nz lbhe zvffvat pbzcyvpgnv. V nz lbhe zvffvat pbzcyvpgnw. V nz lbhe zvffvat pbzcyvpgnx. V nz lbhe zvffvat pbzcyvpgny. V nz lbhe zvffvat pbzcyvpgnz. V nz lbhe zvffvat pbzcyvpgnq. V nz lbhe zvffvat pbzcyvpgnr. V nz lbhe zvffvat pbzcyvpgns. V nz lbhe zvffvat pbzcyvpgnt. V nz lbhe zvffvat pbzcyvpgnu. V nz lbhe zvffvat pbzcyvpgnv. V nz lbhe zvffvat pbzcyvpgnw. V nz lbhe zvffvat pbzcyvpgnx. V nz lbhe zvffvat pbzcyvpgny. V nz lbhe zvffvat pbzcyvpgnz. V nz lbhe zvffvat pbzcyvpgnq. V nz lbhe zvffvat pbzcyvpgnr. V nz lbhe zvffvat pbzcyvpgns. V nz lbhe zvffvat pbzcyvpgnt. V nz lbhe zvffvat pbzcyvpgnu. V nz lbhe zvffvat pbzcyvpgnv. V nz lbhe zvffvat pbzcyvpgnw. V nz lbhe zvffvat pbzcyvpgnx. V nz lbhe zvffvat pbzcyvpgny. V nz lbhe zvffvat pbzcyvpgnz. V nz lbhe zvffvat pbzcyvpgnq. V nz lbhe zv
+
+
+
